@@ -7,6 +7,7 @@
 class GameEngine
 {
     bool chapterStart = 0;
+    std::string inventory[5] = {"joint", "bong", "lighter", "magnesium", "will to live"};
 public:
     std::string currentChapter;
     void run();
