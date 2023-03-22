@@ -6,4 +6,6 @@
 #include <algorithm>
 #include <fstream>
 #include <vector>
+#include "termcolor/termcolor.hpp"
+#include "inputHandler.h"
 #endif

@@ -40,9 +40,11 @@ void GameEngine::run()
         {
             intro();
         }
-        else if (currentChapter == "1")
+        else if (currentChapter == "1" && chapterStart == false)
         {
             auto c1 = ChapterOne(choice);
+            c1.start();
+            chapterStart = true;
         }
     }
 }

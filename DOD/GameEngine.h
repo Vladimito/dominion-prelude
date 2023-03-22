@@ -6,13 +6,14 @@
 #include "cOne.h"
 class GameEngine
 {
-    public:
-        std::string currentChapter;
-        void run();
-        void intro();
-        bool isRunning;
-        std::string choice;
-        GameEngine();
+    bool chapterStart = 0;
+public:
+    std::string currentChapter;
+    void run();
+    void intro();
+    bool isRunning;
+    std::string choice;
+    GameEngine();
 };
 #endif
 

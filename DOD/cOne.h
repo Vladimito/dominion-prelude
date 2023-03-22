@@ -3,13 +3,15 @@
 #include "common.h"
 class ChapterOne
 {
-    public:
-        void start(std::string &choice);
-        ChapterOne(std::string & choice)
-        {
-            auto input = choice;
-            start(input);
-        }
+std::string cInput;
+std::string items[3] = {"TORCH", "GEM", "joint"};
+public:
+    void start();
+    ChapterOne(std::string & choice)
+    {
+        this->cInput= choice;
+    }
+    void recall();
 };
 #endif
 
