@@ -4,6 +4,8 @@ This is an interactive fiction adventure game made for TextJam.
 
 _Game Summary will be added here at a later date._
 
+#h1 This is a very jank prototype that I will be remaking at some point
+
 ╢▌▒▒▌▒▒▒▒▓▒▒▀▒▀▒▒▒▒▒▀▒╣▒▒▌▒▒▀▓▒▌▀▒▓▒▒╢▒▒▌▀▒▀╬▒▌▒▒▒▒▒▒▒▒▒▓▒╬▒▒▒▒▒▒▒▓▒▒▀▌╬╬╬▒▒▒▒▒▓▒▒▒▓▓▒╬▒▓▒▒▒▒▀╣▓▓▌▓▓
 
 ▒▒▓▒╢▒▒▒▒╣▒▒╣▒▒▒▒╫▒▒▒▒▒▒▒▒▒▒╢▒▒▒▒▒╢▒▒▒╣╢╫╣▒▒▒▒▒▒▒▒▒▒▒▒▒▒╣▒▒▒▒▒▒▒▒▒▒▒╣▒▒▒▒▒▒▒▒▒▒▒▒╢▒╢╣╣╣╢╣╢╣▒▓▄▒╣▓▓▓╣
